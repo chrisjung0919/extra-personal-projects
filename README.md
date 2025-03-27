@@ -1,0 +1,1 @@
+These are projects that I have created with the help of ChatGPT, showcasing various coding skills and problem-solving techniques. Each project serves as a learning experience, allowing me to explore different aspects of programming and improve my abilities.
