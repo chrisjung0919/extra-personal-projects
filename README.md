@@ -14,7 +14,7 @@ Each project served as a valuable learning experience, allowing me to:
 - `BMI` – A simple Body Mass Index calculator that takes user input and classifies BMI range.
 - `flashcards` – A customizable flashcard quiz app with options to add, view, delete, and shuffle flashcards. Includes a point system and save/load functionality.
 - `hangman` – A classic Hangman game with word guessing, limited attempts, and difficulty levels.
-
+- `rockpaperscissors` – A simple command-line Rock-Paper-Scissors game where the user plays against the computer until they choose to quit, with scores tracked throughout.
 ---
 
 ## 🛠 Languages & Tools
